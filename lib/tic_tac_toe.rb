@@ -1,4 +1,4 @@
-
+require 'pry'
 
 class TicTacToe
     WIN_COMBINATIONS = [
