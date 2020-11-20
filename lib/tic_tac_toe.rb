@@ -1,4 +1,4 @@
-require 'pry'
+
 
 class TicTacToe
     WIN_COMBINATIONS = [
@@ -116,3 +116,4 @@ class TicTacToe
     end
 
 end
+
